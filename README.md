@@ -2,7 +2,10 @@
 Tools for online dungeons and dragons, including dice rolling, Open5e searching, and Discord integration.
 
 ## Overview
-This project is currently a single Discord bot, __DnD-Assistant__, written in Python with [discord.py](https://github.com/Rapptz/discord.py). 
+
+This project is __no longer in development__. It was developed as a fun side project, with the purpose of practicing Python programming. Check out [Avrae by DndBeyond](https://github.com/avrae) for a collection of open source DnD tools, including a Discord bot!
+
+This package includes a single Discord bot, __DnD-Assistant__, written in Python with [discord.py](https://github.com/Rapptz/discord.py). 
 
 __DnD-Assistant__ can...
 
